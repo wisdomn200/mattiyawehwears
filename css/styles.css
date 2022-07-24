@@ -21,6 +21,12 @@
     
 }
 
+.w {
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
 .text-md-end {
     position: relative;
     text-align: center;
